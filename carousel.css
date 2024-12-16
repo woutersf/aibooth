@@ -27,6 +27,10 @@ body {
   height: 32rem;
 }
 
+div.reference-title h2{
+margin-bottom: 2em;
+margin-top: 1em;
+}
 
 /* MARKETING CONTENT
 -------------------------------------------------- */
