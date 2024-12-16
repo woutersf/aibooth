@@ -35,6 +35,10 @@ div.reference-title h2{
 	text-align:center;
 }
 
+.references .reference img{
+	filter: grayscale(100%);
+}
+
 /* MARKETING CONTENT
 -------------------------------------------------- */
 
